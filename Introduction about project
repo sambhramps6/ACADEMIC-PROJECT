@@ -1,0 +1,16 @@
+1. Introduction
+The machine is fitted with an FM remote control system, a motor driving mechanism and a battery. Power stored in the battery is used to drive the DC motor that allows the vehicle to
+move. Current vehicles, pallet trucks, trolleys use petrol or diesel as fuel for running and we use manpower to operate them. DC motors are an important machine in many control
+systems, such as domestic electrical systems, vehicles, trains and process control, and it is well recognized that the mathematical model is key to the design of the control system.
+An effort is made to co-relate the bending stresses and displacement of the spur gear tooth obtained analytically as well as by FEM. Recent advances in the field of mechanical
+engineering are requiring improved gear teeth in terms of loading power and the speed at which they can work. Static and dynamic study of the spur gear tooth helps to assess the
+maximum displacement, the maximum induced stress and the impact of time-related stress variation. The loading capacity and operating speed of the geared system can be achieved by
+reducing the maximum induced stress
+
+2. Results and Discussion
+The product design included a chassis, DC generator, battery, blower, spur gear and control panel. The DC motor is mounted to the rear shaft of the scrap collecting vehicle for the straight
+line movement push. The Dc motor receives the battery power. The power stored in the battery helps to drive the DC motor allowing the vehicle to travel. We use the fuel for running the
+existing vehicles, pallet trucks, trolley and petrol or diesel.This type of vehicle is use a liter of fuel for one hour. To overcome this, we built a vehicle that
+was powered by a storage battery. The power stored in the battery is used to drive the DC motor that allows the vehicle to move. The speed of rotation of the DC motor, i.e. the velocity of the
+vehicl, is controlled by the controller of the microprocessor. The battery mounted on the vehicle is easily accessible and portable, used to charge the battery when the car is under the
+roof.
